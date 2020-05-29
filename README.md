@@ -1,2 +1,3 @@
-# Katas-Codewords
-Python solutions to Codeword Katas for practice
+# Katas-Codewars
+My solutions for Katas on Codewars using python3
+
