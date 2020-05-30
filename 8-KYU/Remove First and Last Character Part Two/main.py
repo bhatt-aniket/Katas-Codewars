@@ -12,3 +12,4 @@ def array(string):
       return x.replace(',', '')
   except IndexError:
     return None
+  
